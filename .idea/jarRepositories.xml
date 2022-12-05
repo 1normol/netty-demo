@@ -12,6 +12,11 @@
       <option name="url" value="https://packages.aliyun.com/maven/repository/2045063-snapshot-VQBWY3/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="edas-oss-central" />
       <option name="name" value="taobao mirror central" />
       <option name="url" value="http://edas-public.oss-cn-hangzhou.aliyuncs.com/repository" />
@@ -30,6 +35,11 @@
       <option name="id" value="rdc-releases" />
       <option name="name" value="rdc-releases" />
       <option name="url" value="https://packages.aliyun.com/maven/repository/2045063-release-58c3rV/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="snapshots" />
